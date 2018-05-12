@@ -1,0 +1,45 @@
+_repo: Two-Royal-Foes_34220
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Madden, Eva Annie
+    aliases:
+    - Madden, E. A. (Eva Annie)
+    - Madden, Eva A. (Eva Annie)
+    birthdate: 1863
+    gutenberg_agent_id: '36882'
+    url: http://www.gutenberg.org/2009/agents/36882
+description: ''
+gutenberg_issued: '2010-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Luise, Queen, consort of Frederick William III, King of Prussia, 1776-1810
+  -- Fiction'
+- !lcsh 'Germany -- Fiction'
+- !lcc 'PZ'
+title: Two Royal Foes
+url: http://www.gutenberg.org/ebooks/34220
